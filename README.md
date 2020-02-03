@@ -1,2 +1,2 @@
 # Verifica-ADMI
-Verificador de piezas de hardware
+Verificador de piezas de hardware de PC de escritorio.
